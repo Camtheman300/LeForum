@@ -2,7 +2,7 @@
   "name": "leforum",
   "version": "1.0.0",
   "description": "Fast and simple SPA vue/node.js forum",
-  "author": "MrOnlineCoder <glinka1202@gmail.com>",
+  "author": "ChaplianDev <choos5919@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
