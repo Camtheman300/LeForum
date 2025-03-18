@@ -95,5 +95,5 @@
         }
     },
     "rules": "<h1>LeForum Test rules dsfsdfsdfsdf</h1><p><br></p><h2>General</h2><ol><li>By registering and using our service, you automatically agree to follow theese rules</li><li>Rules can be changed by administrator anytime without any notification to users</li><li>Not knowing rules does not free you of responsibility</li></ol><p><br></p><blockquote>Created on 3/17/25 by ChaplainDec </blockquote>",
-    "tokenSecret": "8ab2-fd67-a12j-f889-ddd91"
+    "tokenSecret": "a-string-secret-at-least-256-bits-long"
 }
